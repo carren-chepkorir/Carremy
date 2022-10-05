@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carremy
 - 👀 I’m interested in front end develoment.
-- 🌱 I’m currently learning REACT  and WEB3.
+- 🌱 I’m currently learning REACT and Python .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on linkedin ..
 
